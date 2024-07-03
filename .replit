@@ -1,6 +1,6 @@
 run = "python app.py"
 language = "python"
-modules = ["python-3.12"]
+modules = ["web", "python-3.12", "angular-node-20", "replit-rtld-loader"]
 [nix]
 channel = "stable-23_11"
 
